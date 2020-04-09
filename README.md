@@ -74,7 +74,7 @@
 
 | 名称 | Tr-Func | FastBuilder Pro | YCloud |
 | :-: | :-----: | :-------------: | :---: |
-| 防护 mcwsdebugger | Yes | Yes | No |
+| 调试器 | Yes | Yes | No |
 | 处理数字游戏名 | Yes | Yes | 错误，直接输出至游戏(TypeError) |
 | 防止错误类型的游戏名 | Yes | No | No |
 
