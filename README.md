@@ -55,8 +55,8 @@
 
 ### 用户体验
 
-| 名称 | Tr-Func | FastBuilder Pro | Ycloud |
-| --- | ------- | --------------- | ----- |
+| 名称 | Tr-Func | FastBuilder Pro | YCloud |
+| :-: | :-----: | :-------------: | :---: |
 | 建筑排队 | 无 | 无 | 有且耗时长 |
 | 报速准确 | Yes | Yes | No |
 | 客户服务 | 较好 | 一般 | 较好 |
@@ -71,8 +71,8 @@
 
 ### 安全性
 
-| 名称 | Tr-Func | FastBuilder Pro | Ycloud |
-| --- | ------- | --------------- | ----- |
+| 名称 | Tr-Func | FastBuilder Pro | YCloud |
+| :-: | :-----: | :-------------: | :---: |
 | 防护 mcwsdebugger | 不能 | 不能 | 不能 |
 | 防止数字游戏名 | 可以 | 可以 | 错误直接输出至游戏(TypeError) |
 
