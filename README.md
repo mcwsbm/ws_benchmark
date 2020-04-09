@@ -18,7 +18,7 @@
 | 框架     | nodejs-websocket          | ws                      | nodejs-websocket |
 | 稳定性   | 良好                      | 良好                    | 一般             |
 | 难易     | 简单                      | 普通                    | 简单             |
-| 发包速度 | 20-30                     | 800+                    | ?                |
+| 发包速度 | 20-30                     | 800+                    | 30-50                |
 | 软件语言 | 中文                      | 英语                    | 中文             |
 | 商业使用 | No                        | No                      | No               |
 | 自由度   | 一般                      | 高                      | 一般             |
@@ -31,7 +31,7 @@
 
 | 名称           | TrFunc        | FastBuilder Pro                 | Ycloud        |
 | -------------- | ------------- | ------------------------------- | ------------- |
-| 支持的建筑格式 | schematic/nbt | schematic/nbt/mcacblock/bdp/bdx | schematic/nbt |
+| 支持的建筑格式 | schematic/nbt | schematic/nbt/mcacblock/bdp/bdx | schematic/nbt* |
 | 像素画         | Yes           | Yes                             | Yes           |
 | 加密连接       | No            | Yes                             | No            |
 | 圆/球/椎       | No            | Yes                             | No            |
