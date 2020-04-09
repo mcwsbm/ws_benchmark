@@ -40,7 +40,7 @@
 | :------------: | :-----------: | :-----------------------------: | :-----------: |
 | 支持的建筑格式 | schematic/nbt | schematic/nbt/mcacblock/bdp/bdx | schematic/nbt |
 | 像素画         | Yes           | Yes                             | Yes           |
-| 几何       | No            | Yes                             | No            |
+| 几何       | Yes,但介绍模糊            | Yes                             | No            |
 | 数学表达式解析 | No            | Yes                             | No            |
 | 文字打印       | Yes            | Yes                             | No            |
 | 开放API       | Yes            | Yes                             | No            |
