@@ -42,15 +42,16 @@
 | 像素画         | Yes           | Yes                             | Yes           |
 | 几何       | No            | Yes                             | No            |
 | 数学表达式解析 | No            | Yes                             | No            |
-| 文字打印       | No            | Yes                             | No            |
-| 开放API       | No            | Yes                             | No            |
-| 地形生成       | Yes           | Yes                             | No            |
+| 文字打印       | Yes            | Yes                             | No            |
+| 开放API       | Yes            | Yes                             | No            |
+| 地形生成       | No           | Yes                             | Yes            |
 | 导出建筑       | Yes           | Yes                             | Yes           |
 | 迷宫生成       | Yes           | No                       | No            |
 | 混合建造       | No            | Yes                             | No            |
 | 过滤器         | No            | Yes                             | No            |
-| 分块建造       | No            | Yes                             | No            |
-
+| 分块建造       | Yes            | Yes                             | No              |
+| 合并算法       | 有,但并不好     | Soon                            | 虚构          |
+| 宣传真实性     | 高             | 极高                              | 低         |
 ## 其他评判标准
 
 ### 用户体验
