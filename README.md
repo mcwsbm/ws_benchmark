@@ -15,10 +15,10 @@
 | 用户管理 | 论坛/QQ群               | 用户中心/QQ群/Telegram群     | QQ群      |
 | 权限       | 白名单            | 白名单                             | 白名单            |
 | 价格     | CNY 0                         | CNY 120                  | CNY 0 - 16       |
-| 服务器   | 云端                      | 本地/云端               | 云端             |
+| 服务器   | 云端(本地版本目前无)                      | 本地/云端               | 云端             |
 | 文档完备 | Yes                       | Yes                     | No               |
 | 编程语言 | Node.js                    | Node.js                  | Node.js           |
-| 框架     | nodejs-websocket          | ws                      | nodejs-websocket |
+| 框架     | nodejs-websocket/ws          | ws                      | nodejs-websocket |
 | 稳定性   | 良好                      | 良好                    | 差             |
 | 使用难度 | 简单                      | 普通                    | 简单             |
 | 速度(秒) | 25-50                     | 650-1500                    | 30-50                |
@@ -134,7 +134,7 @@
 
 | 名称           | Tr-Func        | FastBuilder Pro                 | YCloud        |
 | :------------: | :-----------: | :-----------------------------: | :-----------: |
-| 著作权 | 2019.6发布的版本抄袭了于2019.3发布的FBPro v2.9<br />使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0) |
+| 著作权 | 2019.6发布的版本抄袭了于2019.3发布的FBPro v2.9<br />使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本疑似抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0) |
 | 宣传真实性 |  |  | 严重的虚标速度欺骗用户，以建造速度为噱头诱导消费 |
 | 消费者权益 |  |  |  |
 | 目的可疑的命令使用 |  |  | /execute<br />/scoreboard<br />/tag |
