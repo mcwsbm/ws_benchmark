@@ -14,7 +14,7 @@
 | 官网主页       | [tr-func.com](tr-func.com)            | [fastbuilder.pro](fastbuilder.pro)                             | [ycloud.ws](ycloud.ws)            |
 | 用户管理 | 论坛/QQ群               | 用户中心/QQ群/Telegram群     | QQ群      |
 | 权限       | 白名单            | 白名单                             | 白名单            |
-| 价格     | CNY 0                         | CNY 120                  | CNY 0 - 16       |
+| 价格     | CNY 0                         | CNY 120                  | CNY 0 - 200       |
 | 服务器   | 云端(本地版本目前无)                      | 本地/云端               | 云端             |
 | 文档完备 | Yes                       | Yes                     | No               |
 | 编程语言 | Node.js                    | Node.js                  | Node.js           |
@@ -44,7 +44,7 @@
 | :------------: | :-----------: | :-----------------------------: | :-----------: |
 | 支持的结构格式 | schematic/nbt | schematic/nbt/mcacblock/bdp/bdx | schematic/nbt |
 | 像素画         | Yes           | Yes                             | Yes           |
-| 几何       | Yes            | Yes                             | No            |
+| 几何       | Yes            | Yes                             |　No           |
 | 数学表达式解析 | No            | Yes                             | No            |
 | 文字打印       | Yes            | Yes                             | No            |
 | 开放API       | Yes            | Yes                             | No            |
@@ -140,7 +140,7 @@
 
 | 名称           | Tr-Func        | FastBuilder Pro                 | YCloud        |
 | :------------: | :-----------: | :-----------------------------: | :-----------: |
-| 著作权 | 2019.6发布的版本抄袭了于2019.3发布的FBPro v2.9<br />使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本疑似抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0) |
+| 著作权 | 2019.6发布的版本抄袭了于2019.3发布的FBPro v2.9<br />使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本疑似抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0),几何功能抄袭FB |
 | 宣传真实性 |  |  | 严重的虚标速度欺骗用户，以建造速度为噱头诱导消费 |
 | 消费者权益 |  |  |  |
 | 目的可疑的命令使用 |  |  | /execute<br />/scoreboard<br />/tag |
