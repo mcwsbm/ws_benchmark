@@ -139,7 +139,7 @@
 
 | 名称           | Tr-Func        | FastBuilder Pro                 | YCloud        |
 | :------------: | :-----------: | :-----------------------------: | :-----------: |
-| 著作权 | 2019.6发布的版本抄袭了于2019.3发布的FBPro v2.9<br />使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本疑似抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0),几何功能使用了CAIMEO的[Meowslib](https://github.com/CAIMEOX/meowslib),但未遵守GPL协议. |
+| 著作权 |使用或参照了其他遵循GPL协议的项目源码但并未公开原作者信息及修改部分<br />2020.4发布的本地版本使用了[Meowslib](https://github.com/CAIMEOX/meowslib)，但未遵守协议 |  | 2020.1发布的版本疑似抄袭了于2019.8发布的Tr-func(彼时名为Tr&&ws&&sch&&pixe3.0),几何功能使用了CAIMEO的[Meowslib](https://github.com/CAIMEOX/meowslib),但未遵守GPL协议. |
 | 宣传真实性 |  |  | 严重的虚标速度欺骗用户，以建造速度为噱头诱导消费 |
 | 消费者权益 |  |  |  |
 | 目的可疑的命令使用 | | | |
