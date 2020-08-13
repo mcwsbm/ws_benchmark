@@ -1,9 +1,13 @@
+
+
 # Minecraft Websocket Benchmark
+
 
 本仓库将对那些主流的Minecraft Websocket(以速建为主题的)进行基准测试.测试内容包括发包速度，错误处理，使用难易度等.
 
 如果您需要对某个不在列表中的WS服务进行测试，欢迎电邮me@torrekie.dev
 
+**在最新版本的我的世界网易版中,wsserver(connect)命令被移除，以下产品均无法使用**
 
 ## 基本信息
 
@@ -14,7 +18,7 @@
 | 官网主页       | [tr-func.com](tr-func.com)            | [fastbuilder.pro](fastbuilder.pro)                             | [ycloud.ws](ycloud.ws)            |
 | 用户管理 | 论坛/QQ群               | 用户中心/QQ群/Telegram群     | QQ群      |
 | 权限       | 白名单            | 白名单                             | 白名单            |
-| 价格     | CNY 0                         | CNY 120                  | CNY 0 - 200       |
+| 价格     | CNY 0                         | CNY 0                  | CNY 0 - 200       |
 | 服务器   | 云端(本地版本目前无)                      | 本地/云端               | 云端             |
 | 文档完备 | Yes                       | Yes                     | No               |
 | 编程语言 | Node.js                    | Node.js                  | Node.js           |
